@@ -1,0 +1,29 @@
+.container{
+    background-color:rgb(110, 241, 110);
+    height: 80vh ;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+}
+
+.formColor{
+    background-color: white;
+    border: rgba(13, 0, 0, 0.519) 0.1rem groove;
+    border-radius: 0.3rem;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+
+.separador{
+    display: flex;
+    align-items: center;
+}
+
+.form-control-color{
+    height: 2rem;
+}
+
+.form-input-text{
+    height: 1.7rem;
+}
