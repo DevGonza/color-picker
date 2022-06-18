@@ -1,5 +1,4 @@
 .container{
-    background-color:rgb(110, 241, 110);
     height: 80vh ;
     margin: 0 auto;
     display: flex;
@@ -8,7 +7,7 @@
 }
 
 .formColor{
-    background-color: white;
+    background-color: rgb(237, 237, 237);
     border: rgba(13, 0, 0, 0.519) 0.1rem groove;
     border-radius: 0.3rem;
     margin: 0 auto;
