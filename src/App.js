@@ -5,8 +5,8 @@ import Footer from './componentes/Footer/Footer';
 function App() {
   return (
     <>
-      <ColorPicker />
-      <Footer />
+        <ColorPicker />
+        <Footer />
     </>
   );
 }

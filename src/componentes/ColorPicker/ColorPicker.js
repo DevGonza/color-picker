@@ -4,8 +4,9 @@ import './ColorPicker.css'
 export const ColorPicker = () => {
   const [colorSelect, setColorSelect] = useState ('');
 
+
   return (
-    <div className='container'>
+    <div className='container ' style={{backgroundColor:colorSelect}}>
       <div className="formColor">
         <p>Color Picker</p>
         <div className='separador'>
